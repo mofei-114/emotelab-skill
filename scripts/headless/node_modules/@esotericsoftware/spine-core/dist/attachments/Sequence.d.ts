@@ -1,0 +1,80 @@
+/******************************************************************************
+ * Spine Runtimes License Agreement
+ * Last updated April 5, 2025. Replaces all prior versions.
+ *
+ * Copyright (c) 2013-2025, Esoteric Software LLC
+ *
+ * Integration of the Spine Runtimes into software or otherwise creating
+ * derivative works of the Spine Runtimes is permitted under the terms and
+ * conditions of Section 2 of the Spine Editor License Agreement:
+ * http://esotericsoftware.com/spine-editor-license
+ *
+ * Otherwise, it is permitted to integrate the Spine Runtimes into software
+ * or otherwise create derivative works of the Spine Runtimes (collectively,
+ * "Products"), provided that each user of the Products must obtain their own
+ * Spine Editor license and redistribution of the Products in any form must
+ * include this license and copyright notice.
+ *
+ * THE SPINE RUNTIMES ARE PROVIDED BY ESOTERIC SOFTWARE LLC "AS IS" AND ANY
+ * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED. IN NO EVENT SHALL ESOTERIC SOFTWARE LLC BE LIABLE FOR ANY
+ * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES,
+ * BUSINESS INTERRUPTION, OR LOSS OF USE, DATA, OR PROFITS) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+ * THE SPINE RUNTIMES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *****************************************************************************/
+import type { SlotPose } from "../SlotPose.js";
+import type { TextureRegion } from "../Texture.js";
+import { type NumberArrayLike } from "../Utils.js";
+import type { HasSequence } from "./HasSequence.js";
+/** Holds texture regions, UVs, and vertex offsets for rendering a region or mesh attachment. {@link regions Regions} must be
+ * populated and {@link update} called before use. */
+export declare class Sequence {
+    private static _nextID;
+    id: number;
+    /** The list of texture regions this sequence will display. */
+    regions: Array<TextureRegion | null>;
+    readonly pathSuffix: boolean;
+    uvs?: NumberArrayLike[];
+    /** Returns vertex offsets from the center of a {@link RegionAttachment}. Invalid to call for a {@link MeshAttachment}. */
+    offsets?: number[][];
+    /** The starting number for the numeric {@link getPath | path} suffix. */
+    start: number;
+    /** The minimum number of digits in the numeric {@link getPath | path} suffix, for zero padding. 0 for no zero
+     * padding. */
+    digits: number;
+    /** The index of the region to show for the setup pose. */
+    setupIndex: number;
+    /** @param count The number of texture regions this sequence will display.
+     * @param pathSuffix If true, the {@link getPath | path} has a numeric suffix. If false, all regions will use the
+     * same path, so `count` should be 1. */
+    constructor(count: number, pathSuffix: boolean);
+    copy(): Sequence;
+    /** Computes UVs and offsets for the specified attachment. Must be called if the regions or attachment properties are
+      * changed. */
+    update(attachment: HasSequence): void;
+    /** Returns the {@link regions} index for the {@link SlotPose.getSequenceIndex}. */
+    resolveIndex(pose: SlotPose): number;
+    /** Returns the UVs for the specified index. {@link regions Regions} must be populated and {@link update} called
+      * before calling this method. */
+    getUVs(index: number): Float32Array;
+    /** Returns true if the {@link getPath | path} has a numeric suffix. */
+    hasPathSuffix(): boolean;
+    /** Returns the specified base path with an optional numeric suffix for the specified index. */
+    getPath(basePath: string, index: number): string;
+    private static nextID;
+}
+/** Controls how {@link Sequence.regions} are displayed over time. */
+export declare enum SequenceMode {
+    hold = 0,
+    once = 1,
+    loop = 2,
+    pingpong = 3,
+    onceReverse = 4,
+    loopReverse = 5,
+    pingpongReverse = 6
+}
+export declare const SequenceModeValues: SequenceMode[];

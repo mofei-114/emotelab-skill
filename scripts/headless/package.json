@@ -1,0 +1,13 @@
+{
+  "name": "emotelab-headless",
+  "version": "1.0.0",
+  "description": "Headless EmoteLab character renderer (Spine skeleton -> PNG/GIF)",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@esotericsoftware/spine-canvas": "4.3.13",
+    "@esotericsoftware/spine-core": "4.3.13",
+    "canvas": "^3.2.3",
+    "gifenc": "^1.0.3"
+  }
+}

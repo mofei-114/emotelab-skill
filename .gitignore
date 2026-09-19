@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 渲染产物与临时文件
+out/
+*.bak
+*.bak-*
+*.log
+*.tmp
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+
+# 注意：node_modules 是**故意提交**的 —— canvas 是原生模块，
+# 带上它别人 clone 下来就能直接跑，不必再折腾编译工具链。

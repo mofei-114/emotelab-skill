@@ -1,0 +1,1132 @@
+{
+ "Ahoge": {
+  "proven": [
+   "AhogeA3"
+  ],
+  "candidate": [
+   "AhogeA1",
+   "AhogeA2",
+   "AhogeA3",
+   "AhogeA4",
+   "AhogeB1",
+   "AhogeB2",
+   "Ahoge_1_Custom"
+  ]
+ },
+ "AnimalEar": {
+  "proven": [
+   "AnimalEar1",
+   "AnimalEar2",
+   "AnimalEar3",
+   "AnimalEar4",
+   "AnimalEar5",
+   "AnimalEar7",
+   "AnimalEar8"
+  ],
+  "candidate": [
+   "AnimalEar1",
+   "AnimalEar2",
+   "AnimalEar3",
+   "AnimalEar4",
+   "AnimalEar5",
+   "AnimalEar6",
+   "AnimalEar7",
+   "AnimalEar8",
+   "AnimalEar9",
+   "AnimalEar_A_Custom",
+   "AnimalEar_B_Custom",
+   "AnimalEar_C_Custom"
+  ]
+ },
+ "BackHair": {
+  "proven": [
+   "BackHair1",
+   "BackHair2",
+   "BackHair3",
+   "BackHair3Gradient"
+  ],
+  "candidate": [
+   "BackHair1",
+   "BackHair1Gradient",
+   "BackHair2",
+   "BackHair2Gradient",
+   "BackHair3",
+   "BackHair3Gradient",
+   "BackHair_1_Custom"
+  ]
+ },
+ "Brows": {
+  "proven": [
+   "Brows1",
+   "Brows2",
+   "Brows3",
+   "Brows4",
+   "Brows5",
+   "Brows6"
+  ],
+  "candidate": [
+   "Brows1",
+   "Brows2",
+   "Brows3",
+   "Brows4",
+   "Brows5",
+   "Brows6",
+   "Brows7",
+   "Brows8",
+   "Brows9",
+   "Brows_Custom"
+  ]
+ },
+ "Ear": {
+  "proven": [
+   "Ear1"
+  ],
+  "candidate": [
+   "Ear1",
+   "Ear_Custom"
+  ]
+ },
+ "Eye": {
+  "proven": [
+   "Eye1",
+   "Eye2",
+   "Eye3"
+  ],
+  "candidate": [
+   "Eye1",
+   "Eye2",
+   "Eye3",
+   "Eye_A_Customize",
+   "Eye_B_Customize"
+  ]
+ },
+ "FrameHairBranchL": {
+  "proven": [
+   "FrameHairBranchL_A1",
+   "FrameHairBranchL_A2"
+  ],
+  "candidate": [
+   "FrameHairBranchL_A1",
+   "FrameHairBranchL_A2",
+   "FrameHairBranchL_A3",
+   "FrameHairBranchL_A_Custom"
+  ]
+ },
+ "FrameHairBranchR": {
+  "proven": [
+   "FrameHairBranchR_A1",
+   "FrameHairBranchR_A2"
+  ],
+  "candidate": [
+   "FrameHairBranchR_A1",
+   "FrameHairBranchR_A2",
+   "FrameHairBranchR_A3",
+   "FrameHairBranchR_A_Custom"
+  ]
+ },
+ "FrameHairL": {
+  "proven": [
+   "FrameHairL_A10Gradient",
+   "FrameHairL_A2",
+   "FrameHairL_A2Gradient",
+   "FrameHairL_A4Gradient",
+   "FrameHairL_A8Gradient",
+   "FrameHairL_B1",
+   "FrameHairL_B2Gradient"
+  ],
+  "candidate": [
+   "FrameHairL_A1",
+   "FrameHairL_A10",
+   "FrameHairL_A10Gradient",
+   "FrameHairL_A11",
+   "FrameHairL_A11Gradient",
+   "FrameHairL_A1Gradient",
+   "FrameHairL_A2",
+   "FrameHairL_A2Gradient",
+   "FrameHairL_A3",
+   "FrameHairL_A3Gradient",
+   "FrameHairL_A4",
+   "FrameHairL_A4Gradient",
+   "FrameHairL_A5",
+   "FrameHairL_A5Gradient",
+   "FrameHairL_A6",
+   "FrameHairL_A6Gradient",
+   "FrameHairL_A7",
+   "FrameHairL_A7Gradient",
+   "FrameHairL_A8",
+   "FrameHairL_A8Gradient",
+   "FrameHairL_A9",
+   "FrameHairL_A9Gradient",
+   "FrameHairL_B1",
+   "FrameHairL_B1Gradient",
+   "FrameHairL_B2",
+   "FrameHairL_B2Gradient",
+   "FrameHairL_B3",
+   "FrameHairL_B3Gradient",
+   "FrameHairL_B4",
+   "FrameHairL_B4Gradient"
+  ]
+ },
+ "FrameHairR": {
+  "proven": [
+   "FrameHairR_A10Gradient",
+   "FrameHairR_A2",
+   "FrameHairR_A2Gradient",
+   "FrameHairR_A4Gradient",
+   "FrameHairR_A8Gradient",
+   "FrameHairR_B2Gradient"
+  ],
+  "candidate": [
+   "FrameHairR_A1",
+   "FrameHairR_A10",
+   "FrameHairR_A10Gradient",
+   "FrameHairR_A11",
+   "FrameHairR_A11Gradient",
+   "FrameHairR_A1Gradient",
+   "FrameHairR_A2",
+   "FrameHairR_A2Gradient",
+   "FrameHairR_A3",
+   "FrameHairR_A3Gradient",
+   "FrameHairR_A4",
+   "FrameHairR_A4Gradient",
+   "FrameHairR_A5",
+   "FrameHairR_A5Gradient",
+   "FrameHairR_A6",
+   "FrameHairR_A6Gradient",
+   "FrameHairR_A7",
+   "FrameHairR_A7Gradient",
+   "FrameHairR_A8",
+   "FrameHairR_A8Gradient",
+   "FrameHairR_A9",
+   "FrameHairR_A9Gradient",
+   "FrameHairR_B1",
+   "FrameHairR_B1Gradient",
+   "FrameHairR_B2",
+   "FrameHairR_B2Gradient",
+   "FrameHairR_B3",
+   "FrameHairR_B3Gradient",
+   "FrameHairR_B4",
+   "FrameHairR_B4Gradient"
+  ]
+ },
+ "Glasses": {
+  "proven": [
+   "Glassess1",
+   "Glassess3"
+  ],
+  "candidate": [
+   "Glassess1",
+   "Glassess2",
+   "Glassess3",
+   "Glassess_1_Custom"
+  ]
+ },
+ "HairBangLeft": {
+  "proven": [
+   "HairBangLeft1",
+   "HairBangLeft2",
+   "HairBangLeft4"
+  ],
+  "candidate": [
+   "HairBangLeft1",
+   "HairBangLeft1Gradient",
+   "HairBangLeft2",
+   "HairBangLeft2Gradient",
+   "HairBangLeft3",
+   "HairBangLeft3Gradient",
+   "HairBangLeft4",
+   "HairBangLeft4Gradient",
+   "HairBangLeft5",
+   "HairBangLeft5Gradient",
+   "HairBangLeft6",
+   "HairBangLeft6Gradient",
+   "HairBangLeft_Custom"
+  ]
+ },
+ "HairBangMiddle": {
+  "proven": [
+   "HairBangMiddle2",
+   "HairBangMiddle3Gradient",
+   "HairBangMiddle4",
+   "HairBangMiddle5"
+  ],
+  "candidate": [
+   "HairBangMiddle1",
+   "HairBangMiddle1Gradient",
+   "HairBangMiddle2",
+   "HairBangMiddle2Gradient",
+   "HairBangMiddle3",
+   "HairBangMiddle3Gradient",
+   "HairBangMiddle4",
+   "HairBangMiddle4Gradient",
+   "HairBangMiddle5",
+   "HairBangMiddle5Gradient",
+   "HairBangMiddle6",
+   "HairBangMiddle6Gradient",
+   "HairBangMiddle7",
+   "HairBangMiddle7Gradient",
+   "HairBangMiddle_Custom"
+  ]
+ },
+ "HairBangRight": {
+  "proven": [
+   "HairBangRight1",
+   "HairBangRight2",
+   "HairBangRight3"
+  ],
+  "candidate": [
+   "HairBangRight1",
+   "HairBangRight1Gradient",
+   "HairBangRight2",
+   "HairBangRight2Gradient",
+   "HairBangRight3",
+   "HairBangRight3Gradient",
+   "HairBangRight4",
+   "HairBangRight4Gradient",
+   "HairBangRight5",
+   "HairBangRight5Gradient",
+   "HairBangRight6",
+   "HairBangRight6Gradient",
+   "HairBangRight_Custom"
+  ]
+ },
+ "HairClipLeft": {
+  "proven": [
+   "HairClipLeft5",
+   "HairClipLeft8"
+  ],
+  "candidate": [
+   "HairClipLeft1",
+   "HairClipLeft10",
+   "HairClipLeft11",
+   "HairClipLeft12",
+   "HairClipLeft13",
+   "HairClipLeft2",
+   "HairClipLeft3",
+   "HairClipLeft4",
+   "HairClipLeft5",
+   "HairClipLeft6",
+   "HairClipLeft7",
+   "HairClipLeft8",
+   "HairClipLeft9"
+  ]
+ },
+ "HairClipRight": {
+  "proven": [
+   "HairClipRight5",
+   "HairClipRight8"
+  ],
+  "candidate": [
+   "HairClipRight1",
+   "HairClipRight10",
+   "HairClipRight11",
+   "HairClipRight12",
+   "HairClipRight13",
+   "HairClipRight2",
+   "HairClipRight3",
+   "HairClipRight4",
+   "HairClipRight5",
+   "HairClipRight6",
+   "HairClipRight7",
+   "HairClipRight8",
+   "HairClipRight9"
+  ]
+ },
+ "HairHighlightLeft1": {
+  "proven": [
+   "HairHighlightLeft1"
+  ],
+  "candidate": [
+   "HairHighlightLeft1"
+  ]
+ },
+ "HairHighlightLeft2": {
+  "proven": [
+   "HairHighlightLeft2"
+  ],
+  "candidate": [
+   "HairHighlightLeft2"
+  ]
+ },
+ "HairHighlightLeft3": {
+  "proven": [
+   "HairHighlightLeft3"
+  ],
+  "candidate": [
+   "HairHighlightLeft3"
+  ]
+ },
+ "HairHighlightMiddle1": {
+  "proven": [
+   "HairHighlightMiddle1"
+  ],
+  "candidate": [
+   "HairHighlightMiddle1"
+  ]
+ },
+ "HairHighlightMiddle3": {
+  "proven": [
+   "HairHighlightMiddle3"
+  ],
+  "candidate": [
+   "HairHighlightMiddle3"
+  ]
+ },
+ "HairHighlightMiddle5": {
+  "proven": [
+   "HairHighlightMiddle5"
+  ],
+  "candidate": [
+   "HairHighlightMiddle5"
+  ]
+ },
+ "HairHighlightMiddle6": {
+  "proven": [
+   "HairHighlightMiddle6"
+  ],
+  "candidate": [
+   "HairHighlightMiddle6"
+  ]
+ },
+ "HairHighlightRight1": {
+  "proven": [
+   "HairHighlightRight1"
+  ],
+  "candidate": [
+   "HairHighlightRight1"
+  ]
+ },
+ "HairShine": {
+  "proven": [
+   "HairShine1Outline",
+   "HairShine2"
+  ],
+  "candidate": [
+   "HairShine1",
+   "HairShine1Outline",
+   "HairShine2",
+   "HairShine2Outline",
+   "HairShine3",
+   "HairShine3Outline",
+   "HairShine4",
+   "HairShine4Outline",
+   "HairShine5",
+   "HairShine5Outline",
+   "HairShine6",
+   "HairShine6Outline",
+   "HairShine7",
+   "HairShine7Outline"
+  ]
+ },
+ "HairbandB": {
+  "proven": [
+   "HairbandB3"
+  ],
+  "candidate": [
+   "HairbandB1",
+   "HairbandB2",
+   "HairbandB3",
+   "HairbandB4",
+   "HairbandB_1_Custom"
+  ]
+ },
+ "HairbandC": {
+  "proven": [
+   "HairbandC1"
+  ],
+  "candidate": [
+   "HairbandC1"
+  ]
+ },
+ "Horn": {
+  "proven": [
+   "Horn1",
+   "Horn5"
+  ],
+  "candidate": [
+   "Horn1",
+   "Horn2",
+   "Horn3",
+   "Horn4",
+   "Horn5",
+   "Horn6",
+   "Horn7",
+   "Horn_A_Custom"
+  ]
+ },
+ "Mecha": {
+  "proven": [
+   "Mecha3"
+  ],
+  "candidate": [
+   "Mecha1",
+   "Mecha2",
+   "Mecha3",
+   "Mecha4",
+   "Mecha5",
+   "Mecha6",
+   "Mecha_A_Custom"
+  ]
+ },
+ "NeckwearB": {
+  "proven": [
+   "NeckwearB4",
+   "NeckwearB6",
+   "NeckwearB7"
+  ],
+  "candidate": [
+   "NeckwearB1",
+   "NeckwearB2",
+   "NeckwearB3",
+   "NeckwearB4",
+   "NeckwearB5",
+   "NeckwearB6",
+   "NeckwearB7",
+   "NeckwearB_1_Custom",
+   "NeckwearB_2_Custom"
+  ]
+ },
+ "NeckwearC": {
+  "proven": [
+   "NeckwearC2"
+  ],
+  "candidate": [
+   "NeckwearC1",
+   "NeckwearC2",
+   "NeckwearC3",
+   "NeckwearC_1_Custom"
+  ]
+ },
+ "OutfitInner": {
+  "proven": [
+   "OutfitInner1",
+   "OutfitInner2",
+   "OutfitInner3",
+   "OutfitInner5",
+   "OutfitInner6",
+   "OutfitInner7"
+  ],
+  "candidate": [
+   "OutfitInner1",
+   "OutfitInner2",
+   "OutfitInner3",
+   "OutfitInner4",
+   "OutfitInner5",
+   "OutfitInner6",
+   "OutfitInner7",
+   "OutfitInner8",
+   "OutfitInner_Custom"
+  ]
+ },
+ "OutfitInnerCollar": {
+  "proven": [
+   "OutfitInnerCollar1",
+   "OutfitInnerCollar3",
+   "OutfitInnerCollar4",
+   "OutfitInnerCollar6_String"
+  ],
+  "candidate": [
+   "OutfitInnerCollar1",
+   "OutfitInnerCollar2",
+   "OutfitInnerCollar3",
+   "OutfitInnerCollar4",
+   "OutfitInnerCollar5",
+   "OutfitInnerCollar6",
+   "OutfitInnerCollar6_String",
+   "OutfitInnerCollar7"
+  ]
+ },
+ "OutfitOuter": {
+  "proven": [
+   "OutfitOuter1",
+   "OutfitOuter2",
+   "OutfitOuter3",
+   "OutfitOuter5"
+  ],
+  "candidate": [
+   "OutfitOuter1",
+   "OutfitOuter2",
+   "OutfitOuter3",
+   "OutfitOuter4",
+   "OutfitOuter5",
+   "OutfitOuter6",
+   "OutfitOuter7",
+   "OutfitOuter_Custom"
+  ]
+ },
+ "PigtailLeft": {
+  "proven": [
+   "PigtailLeftA4Gradient"
+  ],
+  "candidate": [
+   "PigtailLeftA1",
+   "PigtailLeftA1Gradient",
+   "PigtailLeftA2",
+   "PigtailLeftA2Gradient",
+   "PigtailLeftA3",
+   "PigtailLeftA3Gradient",
+   "PigtailLeftA4",
+   "PigtailLeftA4Gradient",
+   "PigtailLeftA5",
+   "PigtailLeftA5Gradient",
+   "PigtailLeftA6",
+   "PigtailLeftA6Gradient",
+   "PigtailLeftA7",
+   "PigtailLeftA7Gradient",
+   "PigtailLeftA8",
+   "PigtailLeftA8Gradient",
+   "PigtailLeftB1",
+   "PigtailLeftB1Gradient",
+   "PigtailLeftB2",
+   "PigtailLeftB2Gradient",
+   "PigtailLeftC1",
+   "PigtailLeftC1Gradient",
+   "PigtailLeftC2",
+   "PigtailLeftC2Gradient",
+   "PigtailLeft_A_Custom",
+   "PigtailLeft_B_Custom"
+  ]
+ },
+ "SideHair": {
+  "proven": [
+   "SideHairA2Gradient",
+   "SideHairA3",
+   "SideHairA4Gradient",
+   "SideHairA5Gradient",
+   "SideHairA6Gradient",
+   "SideHairA8Gradient",
+   "SideHairB5Gradient",
+   "SideHairB6Gradient"
+  ],
+  "candidate": [
+   "SideHairA1",
+   "SideHairA1Gradient",
+   "SideHairA2",
+   "SideHairA2Gradient",
+   "SideHairA3",
+   "SideHairA3Gradient",
+   "SideHairA4",
+   "SideHairA4Gradient",
+   "SideHairA5",
+   "SideHairA5Gradient",
+   "SideHairA6",
+   "SideHairA6Gradient",
+   "SideHairA7",
+   "SideHairA7Gradient",
+   "SideHairA8",
+   "SideHairA8Gradient",
+   "SideHairB1",
+   "SideHairB1Gradient",
+   "SideHairB2",
+   "SideHairB2Gradient",
+   "SideHairB3",
+   "SideHairB3Gradient",
+   "SideHairB4",
+   "SideHairB4Gradient",
+   "SideHairB5",
+   "SideHairB5Gradient",
+   "SideHairB6",
+   "SideHairB6Gradient",
+   "SideHairB7",
+   "SideHairB7Gradient",
+   "SideHairB8",
+   "SideHairB8Gradient",
+   "SideHair_A_Custom",
+   "SideHair_B_Custom"
+  ]
+ },
+ "SideHairBranchLeftB": {
+  "proven": [
+   "SideHairBranchLeftB2"
+  ],
+  "candidate": [
+   "SideHairBranchLeftB1",
+   "SideHairBranchLeftB2"
+  ]
+ },
+ "SideHairBranchRightA": {
+  "proven": [
+   "SideHairBranchRightA1"
+  ],
+  "candidate": [
+   "SideHairBranchRightA1",
+   "SideHairBranchRightA2"
+  ]
+ },
+ "SideHairBranchRightB": {
+  "proven": [
+   "SideHairBranchRightB2"
+  ],
+  "candidate": [
+   "SideHairBranchRightB1",
+   "SideHairBranchRightB2"
+  ]
+ },
+ "Cheek": {
+  "proven": [],
+  "candidate": [
+   "Cheek1",
+   "Cheek2",
+   "Cheek3",
+   "Cheek4"
+  ]
+ },
+ "FaceFeatureAL": {
+  "proven": [],
+  "candidate": [
+   "FaceFeatureL_A1",
+   "FaceFeatureL_A2",
+   "FaceFeatureL_A3"
+  ]
+ },
+ "FaceFeatureAR": {
+  "proven": [],
+  "candidate": [
+   "FaceFeatureR_A1",
+   "FaceFeatureR_A2",
+   "FaceFeatureR_A3"
+  ]
+ },
+ "FaceFeatureBL": {
+  "proven": [],
+  "candidate": [
+   "FaceFeatureL_B1",
+   "FaceFeatureL_B2",
+   "FaceFeatureL_B3",
+   "FaceFeatureL_B4",
+   "FaceFeatureL_B5"
+  ]
+ },
+ "FaceFeatureBR": {
+  "proven": [],
+  "candidate": [
+   "FaceFeatureR_B1",
+   "FaceFeatureR_B2",
+   "FaceFeatureR_B3",
+   "FaceFeatureR_B4",
+   "FaceFeatureR_B5"
+  ]
+ },
+ "FaceFeatureC": {
+  "proven": [],
+  "candidate": [
+   "FaceFeatureC1",
+   "FaceFeatureC2",
+   "FaceFeature_Custom"
+  ]
+ },
+ "FacialHairA": {
+  "proven": [],
+  "candidate": [
+   "FacialHairA1",
+   "FacialHairA2",
+   "FacialHairA3",
+   "FacialHairA4",
+   "FacialHairA5",
+   "FacialHairA6",
+   "FacialHairA7",
+   "FacialHairA8",
+   "FacialHair_A_Custom"
+  ]
+ },
+ "FacialHairB": {
+  "proven": [],
+  "candidate": [
+   "FacialHairB1",
+   "FacialHairB2",
+   "FacialHairB3",
+   "FacialHairB4",
+   "FacialHairB5",
+   "FacialHairB6",
+   "FacialHairB_Custom1",
+   "FacialHairB_Custom2"
+  ]
+ },
+ "Nose": {
+  "proven": [],
+  "candidate": [
+   "Nose1",
+   "Nose2",
+   "Nose3"
+  ]
+ },
+ "BaseHair": {
+  "proven": [],
+  "candidate": [
+   "BaseHair1",
+   "Bold"
+  ]
+ },
+ "FrameHair": {
+  "proven": [],
+  "candidate": [
+   "FrameHair_Custom"
+  ]
+ },
+ "HairHighlightMiddle2": {
+  "proven": [],
+  "candidate": [
+   "HairHighlightMiddle2"
+  ]
+ },
+ "HairHighlightMiddle4": {
+  "proven": [],
+  "candidate": [
+   "HairHighlightMiddle4"
+  ]
+ },
+ "HairHighlightRight2": {
+  "proven": [],
+  "candidate": [
+   "HairHighlightRight2"
+  ]
+ },
+ "HairHighlightRight3": {
+  "proven": [],
+  "candidate": [
+   "HairHighlightRight3"
+  ]
+ },
+ "SideHairBranchLeftA": {
+  "proven": [],
+  "candidate": [
+   "SideHairBranchLeftA1",
+   "SideHairBranchLeftA2"
+  ]
+ },
+ "SideHairBranchLeftC": {
+  "proven": [],
+  "candidate": [
+   "SideHairBranchLeftC1",
+   "SideHairBranchLeftC2"
+  ]
+ },
+ "SideHairBranchRightC": {
+  "proven": [],
+  "candidate": [
+   "SideHairBranchRightC1",
+   "SideHairBranchRightC2"
+  ]
+ },
+ "PigtailRight": {
+  "proven": [],
+  "candidate": [
+   "PigtailRightA1",
+   "PigtailRightA1Gradient",
+   "PigtailRightA2",
+   "PigtailRightA2Gradient",
+   "PigtailRightA3",
+   "PigtailRightA3Gradient",
+   "PigtailRightA4",
+   "PigtailRightA4Gradient",
+   "PigtailRightA5",
+   "PigtailRightA5Gradient",
+   "PigtailRightA6",
+   "PigtailRightA6Gradient",
+   "PigtailRightA7",
+   "PigtailRightA7Gradient",
+   "PigtailRightA8",
+   "PigtailRightA8Gradient",
+   "PigtailRightB1",
+   "PigtailRightB1Gradient",
+   "PigtailRightB2",
+   "PigtailRightB2Gradient",
+   "PigtailRightC1",
+   "PigtailRightC1Gradient",
+   "PigtailRightC2",
+   "PigtailRightC2Gradient",
+   "PigtailRight_A_Custom",
+   "PigtailRight_B_Custom"
+  ]
+ },
+ "Ponytail": {
+  "proven": [],
+  "candidate": [
+   "PonytailA1",
+   "PonytailA1Gradient",
+   "PonytailA2",
+   "PonytailA2Gradient",
+   "PonytailA3",
+   "PonytailA3Gradient",
+   "PonytailA4",
+   "PonytailA4Gradient",
+   "PonytailA5",
+   "PonytailA5Gradient",
+   "PonytailB1",
+   "PonytailB1Gradient",
+   "PonytailB2",
+   "PonytailB2Gradient",
+   "Ponytail_A_Custom",
+   "Ponytail_B_Custom"
+  ]
+ },
+ "Antenna": {
+  "proven": [],
+  "candidate": [
+   "Antenna1",
+   "Antenna2",
+   "Antenna_1_Custom"
+  ]
+ },
+ "EarringLeft": {
+  "proven": [],
+  "candidate": [
+   "EarringALeft1",
+   "EarringALeft2",
+   "EarringALeft3",
+   "EarringALeft4",
+   "EarringALeft5",
+   "EarringBLeft1",
+   "EarringBLeft2",
+   "EarringBLeft3",
+   "EarringBLeft4",
+   "EarringBLeft5",
+   "EarringLeft_A_Custom",
+   "EarringLeft_B_Custom"
+  ]
+ },
+ "EarringRight": {
+  "proven": [],
+  "candidate": [
+   "EarringRightA1",
+   "EarringRightA2",
+   "EarringRightA3",
+   "EarringRightA4",
+   "EarringRightA5",
+   "EarringRightB1",
+   "EarringRightB2",
+   "EarringRightB3",
+   "EarringRightB4",
+   "EarringRightB5",
+   "EarringRight_A_Custom",
+   "EarringRight_B_Custom"
+  ]
+ },
+ "PiercingALeft": {
+  "proven": [],
+  "candidate": [
+   "PiercingALeft1",
+   "PiercingALeft2",
+   "PiercingALeft3",
+   "PiercingALeft4",
+   "PiercingALeft5",
+   "PiercingLeft_A_Custom"
+  ]
+ },
+ "PiercingARight": {
+  "proven": [],
+  "candidate": [
+   "PiercingARight1",
+   "PiercingARight2",
+   "PiercingARight3",
+   "PiercingARight4",
+   "PiercingARight5",
+   "PiercingARight_A_Custom"
+  ]
+ },
+ "PiercingBLeft": {
+  "proven": [],
+  "candidate": [
+   "PiercingBLeft1",
+   "PiercingBLeft2",
+   "PiercingBLeft3",
+   "PiercingBLeft4",
+   "PiercingBLeft5",
+   "PiercingLeft_B_Custom"
+  ]
+ },
+ "PiercingBRight": {
+  "proven": [],
+  "candidate": [
+   "PiercingBRight1",
+   "PiercingBRight2",
+   "PiercingBRight3",
+   "PiercingBRight4",
+   "PiercingBRight5",
+   "PiercingRight_B_Custom"
+  ]
+ },
+ "Fin": {
+  "proven": [],
+  "candidate": [
+   "Fin1",
+   "Fin_1_Custom"
+  ]
+ },
+ "Gill": {
+  "proven": [],
+  "candidate": [
+   "Gill1",
+   "Gill_1_Custom"
+  ]
+ },
+ "HairbandA": {
+  "proven": [],
+  "candidate": [
+   "HairBandA_1_Custom",
+   "HairbandA1",
+   "HairbandA2"
+  ]
+ },
+ "HairbandD": {
+  "proven": [],
+  "candidate": [
+   "HairbandD1",
+   "HairbandD2",
+   "HairbandD_1_Custom"
+  ]
+ },
+ "Halo": {
+  "proven": [],
+  "candidate": [
+   "Halo1",
+   "Halo2",
+   "Halo3",
+   "Halo4",
+   "Halo5",
+   "Halo6",
+   "Halo_A_Custom"
+  ]
+ },
+ "Hat": {
+  "proven": [],
+  "candidate": [
+   "Hat1",
+   "Hat2",
+   "Hat3",
+   "Hat4",
+   "Hat5",
+   "Hat6",
+   "Hat7",
+   "Hat8",
+   "Hat_A_Custom",
+   "Hat_B_Custom",
+   "Hat_C_Custom",
+   "Hat_D_Custom"
+  ]
+ },
+ "HeadWing": {
+  "proven": [],
+  "candidate": [
+   "HeadWing1",
+   "HeadWing2",
+   "HeadWing3",
+   "HeadWing_A_Custom"
+  ]
+ },
+ "HornFrontMiddle": {
+  "proven": [],
+  "candidate": [
+   "HornMiddle1",
+   "HornMiddle_A_Custom"
+  ]
+ },
+ "HornFront": {
+  "proven": [],
+  "candidate": [
+   "HornFront1",
+   "HornFront2",
+   "HornFront_A_Custom"
+  ]
+ },
+ "Tail": {
+  "proven": [],
+  "candidate": [
+   "TailA1",
+   "TailA2",
+   "TailB1",
+   "TailB2",
+   "TailB3",
+   "TailB4",
+   "TailB5",
+   "TailC1",
+   "TailC2",
+   "TailC3",
+   "TailD1",
+   "TailE1",
+   "TailE2",
+   "TailE3",
+   "TailF1",
+   "TailF2",
+   "TailF3",
+   "TailF4",
+   "Tail_A_Custom",
+   "Tail_B_Custom",
+   "Tail_C_Custom",
+   "Tail_D_Custom",
+   "Tail_E_Custom",
+   "Tail_FHard_Custom",
+   "Tail_FSoft_Custom"
+  ]
+ },
+ "Wing": {
+  "proven": [],
+  "candidate": [
+   "WingA1",
+   "WingA2",
+   "WingA3",
+   "WingB1",
+   "WingC1",
+   "WingD1",
+   "WingD2",
+   "WingE1",
+   "WingF1",
+   "WingG1",
+   "Wing_A_Custom",
+   "Wing_B_Custom",
+   "Wing_C_Custom",
+   "Wing_D_Custom",
+   "Wing_E_Custom",
+   "Wing_F_Custom",
+   "Wing_G_Custom"
+  ]
+ },
+ "Hand": {
+  "proven": [],
+  "candidate": [
+   "Hand1",
+   "Hand2",
+   "Hand_Custom"
+  ]
+ },
+ "Leg": {
+  "proven": [],
+  "candidate": [
+   "Leg1",
+   "Leg_Custom"
+  ]
+ },
+ "CapeBack": {
+  "proven": [],
+  "candidate": [
+   "CapeBack1",
+   "CapeBack2",
+   "CapeBack3",
+   "CapeBack_Custom"
+  ]
+ },
+ "CapeFront": {
+  "proven": [],
+  "candidate": [
+   "CapeFront1",
+   "CapeFront2",
+   "CapeFront3",
+   "CapeFront4",
+   "CapeFront5",
+   "CapeFront6",
+   "CapeFront_Custom"
+  ]
+ },
+ "NeckwearA": {
+  "proven": [],
+  "candidate": [
+   "NeckwearA1",
+   "NeckwearA2",
+   "NeckwearA3",
+   "NeckwearA4",
+   "NeckwearA5",
+   "NeckwearA6",
+   "NeckwearA_1_Custom"
+  ]
+ }
+}
